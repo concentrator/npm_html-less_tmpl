@@ -1,0 +1,22 @@
+{
+  "name": "npm_html-less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:less": "lessc less/main.less css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concentrator/npm_html-less_tmpl.git"
+  },
+  "author": "Dmitry Iovlev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/concentrator/npm_html-less_tmpl/issues"
+  },
+  "homepage": "https://github.com/concentrator/npm_html-less_tmpl#readme",
+  "devDependencies": {
+    "less": "^3.9.0"
+  }
+}
